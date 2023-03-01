@@ -1,0 +1,15 @@
+E:\CodeLmao\bin\Debug\net7.0\CodeLmao.exe
+E:\CodeLmao\bin\Debug\net7.0\CodeLmao.deps.json
+E:\CodeLmao\bin\Debug\net7.0\CodeLmao.runtimeconfig.json
+E:\CodeLmao\bin\Debug\net7.0\CodeLmao.dll
+E:\CodeLmao\bin\Debug\net7.0\CodeLmao.pdb
+E:\CodeLmao\obj\Debug\net7.0\CodeLmao.csproj.AssemblyReference.cache
+E:\CodeLmao\obj\Debug\net7.0\CodeLmao.GeneratedMSBuildEditorConfig.editorconfig
+E:\CodeLmao\obj\Debug\net7.0\CodeLmao.AssemblyInfoInputs.cache
+E:\CodeLmao\obj\Debug\net7.0\CodeLmao.AssemblyInfo.cs
+E:\CodeLmao\obj\Debug\net7.0\CodeLmao.csproj.CoreCompileInputs.cache
+E:\CodeLmao\obj\Debug\net7.0\CodeLmao.dll
+E:\CodeLmao\obj\Debug\net7.0\refint\CodeLmao.dll
+E:\CodeLmao\obj\Debug\net7.0\CodeLmao.pdb
+E:\CodeLmao\obj\Debug\net7.0\CodeLmao.genruntimeconfig.cache
+E:\CodeLmao\obj\Debug\net7.0\ref\CodeLmao.dll
